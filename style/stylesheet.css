@@ -1,0 +1,45 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+header {
+    background-color: #ffcc00;
+    padding: 15px;
+    border: 2px solid black;
+}
+
+nav {
+    margin: 15px 0;
+}
+
+h1 {
+    color: #333;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th {
+    background-color: #ddd;
+}
+
+.highlight {
+    color: red;
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 40px;
+    padding: 10px;
+    border-top: 2px solid black;
+}
